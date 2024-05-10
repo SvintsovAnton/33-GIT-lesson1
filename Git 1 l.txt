@@ -8,5 +8,6 @@ clear - почистить терминал  Ctrl+L
 git branch -M main
 git remote из GitHub 
 git push -u origin main  - перезагрузить данные из уд репозитория в main
+git pull origin main - перенести данные из удаленного репозитория в локальный репозиторий origion - добавить из Удаленного репозитория
 
 
