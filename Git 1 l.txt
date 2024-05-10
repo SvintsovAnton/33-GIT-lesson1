@@ -1,6 +1,12 @@
 git init  - открыть ГИТ репозиторий 
-
-
-
+git ignor - сюда добавляем файлы которые не должны быть в удаленном репозитории 
+git add . - добавить все файлы из проекта в удаленный репозиторий 
+git commit -m "initial" 
+git log --oneline - получить список всех 
+clear - почистить терминал  Ctrl+L 
+создать репозиторий через GitHub
+git branch -M main
+git remote из GitHub 
+git push -u origin main  - перезагрузить данные из уд репозитория в main
 
 
